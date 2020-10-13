@@ -1,0 +1,35 @@
+
+{"Coffee":
+[{
+    "Ounces": "8 ounces",
+    "Sugar": "no sugar",
+    "Milk": "no milk",
+    "Temp": "really hot",
+    "Mug": "in a blue mug"
+},
+{
+
+    "Ounces": "10 ounces",
+    "Sugar": "no sugar",
+    "Milk": "vanilla soy milk",
+    "Temp": "lukewarm",
+    "Mug": "in a polar bear print mug"
+
+},
+{
+
+    "Ounces": "10 ounces",
+    "Sugar": "no sugar",
+    "Milk": "no milk",
+    "Temp": "piping hot",
+    "Mug": "in a Game of Thrones mug"
+
+},
+{
+    "Ounces": "8 ounces",
+    "Sugar": "no sugar",
+    "Milk": "almond milk",
+    "Temp": "lukewarm",
+    "Mug": "in a blue mug"
+}
+]}
